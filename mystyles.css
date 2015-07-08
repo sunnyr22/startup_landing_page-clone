@@ -1,0 +1,9 @@
+body {
+    background-color: LightGray;
+}
+div,
+footer,
+nav,
+section {
+    border: 1px solid Chocolate;
+}
