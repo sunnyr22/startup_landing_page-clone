@@ -1,4 +1,15 @@
-nav {
-	height: 4rem;
-	background-color: yellow;
+.top-navigation {
+    background-color: #fff;
+}
+.top-navigation > .content {
+    width: 970px;
+    height: 70px;
+    margin: 0 auto;
+    background-color: yellow;
+}
+
+.logo{
+	height: 42px;
+  	margin-left: 14px;
+  	padding-top: 12px;
 }
