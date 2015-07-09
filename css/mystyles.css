@@ -68,6 +68,7 @@ body {
 	background-repeat: no-repeat;
     background-size: cover;
     height: 45.938rem;
+    overflow: auto;
 }
 
 
@@ -78,7 +79,9 @@ body {
 	  padding: 245px;
 	  color: white;
 	  text-align: center;
-	    font-size: 23px;
+	  font-size: 23px;
+	  display: block;
+	  box-sixzing: border-box;
 
 }
 
@@ -86,6 +89,25 @@ body {
 	font-weight: 300
 }
 
+/*button*/
+.big-button{
+	display: block;
+	margin: 0 auto;
+	border-radius: 4px;
+	border-style: none;
+	line-height: 2.2;
+	line-height: 2.2;
+  	padding: 0.2rem 1.5rem;
+  	background-color: #f15a29;
+ 	font-weight: 100;
+ 	font-size: 20px;
+ 	text-shadow:none;
 
+}
+
+.big-button:hover {
+	cursor: pointer;
+	background: #d84d10;
+}
 
 
