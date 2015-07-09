@@ -5,6 +5,10 @@ html {
   box-sizing: inherit;
 }
 
+body {
+
+	font-family: "Roboto", sans-serif;
+}
 
 
  /* nav bar */
@@ -53,3 +57,35 @@ html {
 	cursor: pointer;
 	color: #333333;
 }
+
+
+
+/*-------------background image-------------*/
+
+.introduction{
+	background-image: url("../images/first-background.jpg");
+	background-position: center bottom;
+	background-repeat: no-repeat;
+    background-size: cover;
+    height: 45.938rem;
+}
+
+
+.introduction > .content {
+	  width: 59rem;
+	  margin: 0 auto;
+	  min-width: 37.5px;
+	  padding: 262px;
+	  color: white;
+	  font-weight: 300;
+	  text-align: center;
+}
+
+.content > h1,
+.content > h3 {
+	font-weight: 300
+}
+
+
+
+
