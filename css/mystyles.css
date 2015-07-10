@@ -108,7 +108,7 @@ body {
 	cursor: pointer;
 	background: #d84d10;
 }
-
+/* 3 images */
 .everyone {
 	text-align: center;
 	font-weight: 300;
@@ -116,3 +116,23 @@ body {
   	margin-top: 99px;
   	box-sizing: border-box;
 }
+
+.container {
+	border: 1px red solid;
+	height: 15rem;
+	width: 80%;
+	margin: 0 auto
+
+}
+
+.mini  {
+	border: 1px blue solid;
+	height: 15rem;
+	width: 33.3%;
+	display: inline-block;
+	margin-left: -3px;
+}
+
+
+
+
