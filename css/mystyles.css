@@ -108,36 +108,21 @@ body {
 	cursor: pointer;
 	background: #d84d10;
 }
-/* 3 images */
-.everyone {
-	text-align: center;
-	font-weight: 300;
-  	font-size: 42px;
-  	margin-top: 99px;
-  	box-sizing: border-box;
+/* 3 images ,cases and features */
+
+.cases {
+	background-color: #fff;
+	overflow: hidden;
+	padding-bottom: 5rem;
 }
 
-.container {
-	border: 1px red solid;
-	height: 15rem;
-	width: 80%;
-	margin: 0 auto
 
+.cases h2 {
+  font-weight: 300;
+  font-size: 2.75rem;
+  text-align: center;
+  margin-top: 7rem;
+  margin-bottom: 3.4rem;
 }
-
-.mini  {
-	border: 1px blue solid;
-	height: 15rem;
-	width: 33.3%;
-	display: inline-block;
-	margin-left: -3px;
 }
-
-.first-img {
-	float: left;
-	width: 126px;
-	height: 126px;
-
-}
-
 
