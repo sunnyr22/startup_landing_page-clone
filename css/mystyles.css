@@ -109,4 +109,10 @@ body {
 	background: #d84d10;
 }
 
-
+.everyone {
+	text-align: center;
+	font-weight: 300;
+  	font-size: 42px;
+  	margin-top: 99px;
+  	box-sizing: border-box;
+}
