@@ -1,5 +1,6 @@
 html {
   box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
 }
 *, *:before, *:after {
   box-sizing: inherit;
@@ -186,6 +187,10 @@ body {
 	width: 2.5rem;
 	height: 2.5rem;
 	margin: 1.25rem 5px;
+}
+
+.social li:hover {
+	cursor: pointer;
 }
 
 .social .twitter {
