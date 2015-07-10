@@ -73,10 +73,9 @@ body {
 
 
 .introduction > .content {
-	  width: 63rem;
 	  margin: 0 auto;
 	  min-width: 37.5px;
-	  padding: 245px;
+	  padding: 245px 0;
 	  color: white;
 	  text-align: center;
 	  font-size: 23px;
