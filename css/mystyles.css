@@ -155,9 +155,12 @@ body {
 .social {
 	overflow: auto;
 	text-align: center;
+	background-color: #fff;
+	padding-bottom: 9.375rem;
 }
 
 .social hr {
+	border:0;
 	border: 1px solid #eaebec;
 	width: 900px;
 
@@ -194,3 +197,12 @@ body {
 .social .instagram {
 	color: #3f729b;
 }
+
+.copy {
+	  font-size: 0.9rem;
+ 	  font-weight: 300;
+  	  color: #838994;
+  	  margin-left: 1rem;
+  	  text-align: center;
+}
+
