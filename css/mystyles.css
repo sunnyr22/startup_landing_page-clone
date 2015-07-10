@@ -116,13 +116,34 @@ body {
 	padding-bottom: 5rem;
 }
 
+.cases .features {
+	text-align: center;
+	background-color: #fff;
+}
 
 .cases h2 {
   font-weight: 300;
   font-size: 2.75rem;
   text-align: center;
-  margin-top: 7rem;
+  margin-top: 7.6rem;
   margin-bottom: 3.4rem;
 }
+
+.features li {
+	list-style: none;
+	display: inline-block;
+	float: left;
+	width: 33.333333%
+}
+
+.cases .caption h3 {
+	font-weight: 400;
+	font-size: 1.565rem;
+	margin: 2rem;
+
+}
+
+.caption {
+	margin-left: 1%;
 }
 
